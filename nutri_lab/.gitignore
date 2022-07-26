@@ -1,0 +1,10 @@
+/.vscode
+/.idea
+
+db.sqlite3
+/venv
+/media
+/locales
+venv/
+
+/.env
